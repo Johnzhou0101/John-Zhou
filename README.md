@@ -1,6 +1,6 @@
-✨ 我是谁 About Me
+✨ 我是谁？ About Me？
 
-我是百度集团总部全球AI技术战略招聘官John，专注人工智能、云计算机和自动驾驶等行业顶尖人才招聘~很高兴认识你！
+我是百度集团总部全球AI技术战略招聘官John，专注人工智能、云计算机和自动驾驶等行业顶尖人才招聘~很高兴认识各位！
 
 # Hi there, I'm John! 👋
 I am a **Global AI Technical Strategic Recruiter** at **Baidu Group Headquarters**. My mission is to identify and connect with top-tier talent worldwide to drive innovation across cutting-edge industries.
